@@ -61,7 +61,7 @@ nav ul {
   transition: all ease 0.2s;
 }
 nav ul li a {
-  font-family: calibri;
+  font-family: "Courier New", Courier, monospace;
   height: 40px;
   line-height: 43px;
   margin: 3px;
@@ -86,7 +86,7 @@ nav .menu-btn,
   display: none;
 }
 .name {
-  font-family: "Montserrat";
+  font-family: "Courier New", Courier, monospace;
   width: 500px;
   position: absolute;
   left: 22%;
@@ -100,7 +100,7 @@ nav .menu-btn,
   color: #969696;
 }
 .name h1 {
-  font-family: "Montserrat";
+  font-family: "Courier New", Courier, monospace;
   font-size: 40px;
   margin: 0px;
   letter-spacing: 2px;
@@ -246,7 +246,7 @@ nav .menu-btn,
   background-image: url(./images/presentation.png);
   text-align: center;
 }
-#presentaion h1 {
+#presentation h1 {
   font-size: 2rem;
 }
 #services {
